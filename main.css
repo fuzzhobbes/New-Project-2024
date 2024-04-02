@@ -1,0 +1,72 @@
+
+body {
+    background-color: rgb(230, 225, 239);
+}
+
+.links {
+    font-family: 'cormorant';
+    font-style: none;
+    background-color: antiquewhite;
+    text-transform: uppercase;
+    font-weight: 700;
+    border: 5px solid rgb(29, 194, 216);
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+    color: rgb(48, 3, 48);
+}
+.my-stuff {
+    font-family: 'cormorant';
+    font-weight: 700;
+    text-transform: uppercase;
+    text-align: justify;
+    border: 5px solid rgb(51, 162, 218);
+    border-radius: 10px;
+    text-align:center;
+    height: 500px;
+    width: 1420px;
+    background-color: whitesmoke;
+    color: purple;
+}
+#profile-image{
+    width: 18%;
+    height: 60%;
+    border: 4px solid purple;
+    border-radius: 10px;
+}
+h3 li {
+    color: purple;
+    font-family: 'cormorant';
+}
+
+.my-skills {
+    text-align: center;
+    color:purple;
+    font-style:normal;
+    text-transform: uppercase;
+    font-family: 'cormorant';
+    text-transform: uppercase;
+}
+article{
+    color: purple;
+}
+.projects {
+    text-align: center;
+    background: url(https://creditsandcanon.files.wordpress.com/2020/11/intro_680.gif?w=640);
+    height: 500px;
+    width: 1420px;
+    border: 5px solid rgb(49, 183, 223);
+    border-radius: 10px;
+    font-family: 'cormorant';
+    text-transform: uppercase;
+    color: rgb(250, 251, 252);
+    background-position: center;
+}
+.projects img {
+    width: 21%;
+    height: 68%;
+    float: none;
+    margin: 5px;
+    border: 4px solid rgb(131, 141, 225);
+    border-radius: 5px;
+}
